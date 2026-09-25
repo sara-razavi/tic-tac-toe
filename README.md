@@ -7,10 +7,16 @@ I wanted to make something a little more like an actual game instead of only doi
 What it does
  
 • Two players can play against each other
+
 • Shows the game board in the terminal
+
 • Lets players choose their positions
+
 • Checks for a winner
+
 • Checks for a draw
+
+
 
 How to run
 [python tic_tac_toe.py](./02_tic_tac_toe.py)
